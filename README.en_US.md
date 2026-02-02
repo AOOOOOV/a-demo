@@ -1,6 +1,9 @@
 # 🚀 My First GitHub Project: a-demo
-`[中文](./README.md)`| English
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p align="left">
+  <a href="./README.md">English</a> | <strong>English</strong>
+</p>
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 This is my first GitHub repository, created to practice Git workflow and Markdown authoring.
 
 ---

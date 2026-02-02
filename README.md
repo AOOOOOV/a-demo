@@ -1,6 +1,9 @@
 # 🚀 我的第一个 GitHub 项目：a-demo
-中文|`[English](./README.en_US.md)`
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p align="left">
+  <strong>中文</strong> | <a href="./README.en_US.md">English</a>
+</p>
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 这是我的第一个 GitHub 仓库，用于练习 Git 工作流和 Markdown 编写。
 
 ---
