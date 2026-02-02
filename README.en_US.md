@@ -1,6 +1,6 @@
 # 🚀 My First GitHub Project: a-demo
 <p align="left">
-  <a href="./README.md">English</a> | <strong>English</strong>
+  <a href="./README.md">中文</a> | <strong>English</strong>
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
